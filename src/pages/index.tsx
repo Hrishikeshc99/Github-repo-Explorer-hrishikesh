@@ -23,6 +23,7 @@ export default function Home() {
       <div className="container">
         <header className="header">
           <h1 className="title">GitHub Repository Explorer</h1>
+          <h5>By : Hrishikesh Chavan</h5>
         </header>
 
         <div className="home-content">
